@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @vusala123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 vusala123/vusala123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<html>
+  <litle>
+    Vusala
+  </litle>
+  <body>
+    <br>
+    <h1>
+      HALLO WOULD!
+    </h1>
+    <br>
+    <p>
+      It is mine first code.
+    </p>
+  </body>
+</html>
